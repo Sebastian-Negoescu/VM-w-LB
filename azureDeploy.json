@@ -15,7 +15,7 @@
         "lbPoolID": "[concat(variables('lbID'),'/backendAddressPools/BackendPool1')]",
         "lbProbeID": "[concat(variables('lbID'),'/probes/tcpProbe')]",
         "adminUsername": "sebinego",
-        "adminPassword": "3Microsoft.",
+        "adminPassword": "3Microsoft...",
         "vmNamePrefix": "MyDevOpsVM",
         "imagePublisher": "MicrosoftWindowsServer",
         "imageOffer": "WindowsServer",
